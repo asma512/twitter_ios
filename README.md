@@ -17,11 +17,12 @@ The following **required** functionality is completed:
 The following **bonus** features are implemented:
 
 - [x] User can pull to refresh. (1pt)
-- [x] User can load past tweets infinitely. (2pts)
-
+- [x] User can load past tweets infinitely. (2pts)  
+  (API LIMIT)
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/o0ZZyap.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
